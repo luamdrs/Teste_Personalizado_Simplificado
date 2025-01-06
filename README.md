@@ -23,4 +23,4 @@ Realizar um teste de personalidade básico com apenas 3 perguntas e retorna um r
 
 #
 
-_Projeto Simples desenvolvido totalmente em Python._
+_Projeto Simples desenvolvido totalmente em Python e realizado apenas para fins de estudos e consultas futuras._
